@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imEag (Emmanuel Arizabaleta Garces)
 - 👀 I’m interested in Biomedical Engineering and Web Development
-- 🌱 I’m currently learning about Biomedical Engineering, Web Development (AngularJS) and starting in the AI field
+- 🌱 I’m currently learning about Biomedical Engineering, Web Development (AngularJS) and starting at the AI field
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me: write to my email emmanuelarizabaletagarces@gmail.com
 
