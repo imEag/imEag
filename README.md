@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/emmanuelarizabaletagarces/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emmanuelarizabaletagarces/" height="30" width="40" /></a>
 <a href="https://instagram.com/emmanuelarizabaleta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@emmanuelarizabaleta" height="30" width="40" /></a>
  <a href="https://discord.gg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="imEag#2044" height="30" width="40" />imEag#2044</a>
-**emmanuelarizabaletagarces@gmail.com**
+<p>**emmanuelarizabaletagarces@gmail.com**</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
