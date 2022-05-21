@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **interesting projects**
 
-- 🤖 I also know about **Python and data science libraries (pandas, matplotlib, scipy, numpy) and machine learning**
+- 🤖 I also know about **Python, machine learning and data science libraries (pandas, matplotlib, scipy, numpy)**
 
 - 👨‍💻 All of my projects are available at [https://imeag.github.io/portfolio/](https://imeag.github.io/portfolio/)
 
