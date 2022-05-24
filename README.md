@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://imeag.github.io/portfolio/](https://imeag.github.io/portfolio/)
 
-- ⚡ Fun fact [I'm in love with Fallout games ☢️
+- ⚡ Fun fact [I'm in love with Fallout games] ☢️
 
 - 💬 Ask me about **Angular, JavaScript, Python, NodeJs**
 
