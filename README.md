@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Arizabaleta 🚀 @imEag</h1>
 <h3 align="center">Web Developer and Biomedical Engineering Student</h3>
-<h4 align="center">My portfolio <button href="https://imeag.github.io/portfolio/">here</button></h4>
+<h4 align="center">My portfolio <a href="https://imeag.github.io/portfolio/"><strong>here</strong></a></h4>
 
 - 🔭 I’m currently working on [creating my personal portfolio](https://imeag.github.io/portfolio/)
 
