@@ -3,7 +3,7 @@
 <h4 align="center">My portfolio <a href="https://imeag.github.io/portfolio/"><strong>here</strong></a></h4>
 <h4 align="center">My CV <a href="https://storage.googleapis.com/imeag-portfolio-projects/CVEmmanuelArizabaleta.pdf"><strong>here</strong></a></h4>
 
-- 🔭 I’m currently working on [creating my personal portfolio](https://imeag.github.io/portfolio/)
+- 🔭 I’m currently working on [creating awesome projects!](https://imeag.github.io/portfolio/)
 
 - 🌱 I’m currently learning **backend development (express, mongodb, etc)**
 
