@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [creating awesome projects!](https://imeag.github.io/portfolio/)
 
-- 🌱 I’m currently learning **backend development (express, mongodb, etc)**
+- 🌱 I’m currently learning about **GraphQL**
 
 - 👯 I’m looking to collaborate on **interesting projects**
 
@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact [I'm in love with Fallout games] ☢️
 
-- 💬 Ask me about **Angular, JavaScript, Python, NodeJs**
+- 💬 Ask me about **Angular, JavaScript, Python, NodeJs, React**
 
 - 📫 How to reach me **emmanuelarizabaletagarces@gmail.com**
 
