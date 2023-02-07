@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Arizabaleta 🚀 @imEag</h1>
 <h3 align="center">Web Developer and Biomedical Engineering Student</h3>
-<h4 align="center">My portfolio <a href="https://imeag.github.io/portfolio/"><strong>here</strong></a></h4>
 
 
-- 🔭 I’m currently working on freelance projects
+
+- 🔭 I’m currently working as Fullstack Developer
 
 - 🌱 I’m currently learning about **Socket.io**
 
 - 👯 I’m looking to collaborate on **interesting projects**
 
 - 🤖 I also know about **Python, machine learning and data science libraries (pandas, matplotlib, scipy, numpy)**
-
-- 👨‍💻 All of my projects are available at [https://imeag.github.io/portfolio/](https://imeag.github.io/portfolio/)
 
 - ⚡ Fun fact [I'm in love with F1] 🏎
 
