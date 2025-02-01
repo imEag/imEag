@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **interesting projects**
 
-- 🤖 I also know about **Python, machine learning and data science libraries (pandas, matplotlib, scipy, numpy)**
+- 🤖 I also know about **Python and machine learning**
 
 - ⚡ Fun fact [I'm in love with F1] 🏎
 
