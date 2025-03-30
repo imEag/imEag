@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Arizabaleta 🚀 @imEag</h1>
-<h3 align="center">Web Developer and Biomedical Engineering Student</h3>
+<h3 align="center">Full Stack Developer and Biomedical Engineering Student</h3>
 
 
 
 - 🔭 I’m currently working as Fullstack Developer
 
-- 🌱 I’m currently learning about **Socket.io**
+- 🌱 I’m currently learning about **ML Ops**
 
 - 👯 I’m looking to collaborate on **interesting projects**
 
